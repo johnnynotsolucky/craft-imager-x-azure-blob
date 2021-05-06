@@ -15,7 +15,7 @@
 		"email": "shannon@paragonn.com",
 		"issues": "https://github.com/paragonn/craft-imager-x-azure-blob/issues",
 		"source": "https://github.com/paragonn/craft-imager-x-azure-blob",
-		"docs": "https://github.com/paragonn/craft-imager-x-azure-blob/blob/master/README.md"
+		"docs": "https://github.com/paragonn/craft-imager-x-azure-blob/blob/main/README.md"
 	},
 	"require": {
 		"craftcms/cms": "^3.3.0",
@@ -31,9 +31,9 @@
 		"name": "Imager X Storage Driver for Microsoft Azure blob",
 		"developer": "Shannon McMillan",
 		"developerUrl": "https://paragonn.com/",
-		"documentationUrl": "https://github.com/paragonn/craft-imager-x-azure-blob/blob/master/README.md",
-		"changelogUrl": "https://github.com/paragonn/craft-imager-x-azure-blob/blob/master/CHANGELOG.md",
-		"downloadUrl": "https://github.com/paragonn/craft-imager-x-azure-blob/archive/refs/heads/master.zip",
+		"documentationUrl": "https://github.com/paragonn/craft-imager-x-azure-blob/blob/main/README.md",
+		"changelogUrl": "https://github.com/paragonn/craft-imager-x-azure-blob/blob/main/CHANGELOG.md",
+		"downloadUrl": "https://github.com/paragonn/craft-imager-x-azure-blob/archive/refs/heads/main.zip",
 		"class": "paragonn\\ImagerxAzureBlobStorage\\ImagerxAzureBlobStorage"
 	}
 }
