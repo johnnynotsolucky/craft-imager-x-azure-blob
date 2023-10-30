@@ -18,8 +18,8 @@
 		"docs": "https://github.com/paragonn/craft-imager-x-azure-blob/blob/main/README.md"
 	},
 	"require": {
-		"craftcms/cms": "^3.3.0",
-		"league/flysystem-azure-blob-storage": "^1.0.0"
+		"craftcms/cms": "^4.0.0",
+		"league/flysystem-azure-blob-storage": "^3.0"
 	},
 	"autoload": {
 		"psr-4": {
@@ -35,5 +35,11 @@
 		"changelogUrl": "https://github.com/paragonn/craft-imager-x-azure-blob/blob/main/CHANGELOG.md",
 		"downloadUrl": "https://github.com/paragonn/craft-imager-x-azure-blob/archive/refs/heads/main.zip",
 		"class": "paragonn\\ImagerxAzureBlobStorage\\ImagerxAzureBlobStorage"
+	},
+	"config": {
+		"allow-plugins": {
+			"yiisoft/yii2-composer": true,
+			"craftcms/plugin-installer": true
+		}
 	}
 }
